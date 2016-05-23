@@ -18,7 +18,7 @@ This API documentation provides specific information on:
 A prerequisite for using Kaltura APIs is obtaining Kaltura account ID, aka the Partner ID (or pid).  
 [Register for a Kaltura VPaaS account](https://vpaas.kaltura.com/register).
 
-Please explore these tools too:
+You may want to explore these tools as well:
 * The Kaltura VPaaS [Developer Guides](https://vpaas.kaltura.com/documentation/01_VPaaS-API-Getting-Started/Getting-Started-VPaaS-API.html).
 * The Kaltura VPaaS Interactive [Code Recipes](https://developer.kaltura.com/recipes/), providing a quick way to learn about video workflows with Kaltura and see from real examples how to write applicatiosn with Kaltura.
 * The [API Test Console](https://developer.kaltura.com/console/), providing a quick exploration and discovery for each service and action, allowing you to try each action easily, and serving as code-example generator.
